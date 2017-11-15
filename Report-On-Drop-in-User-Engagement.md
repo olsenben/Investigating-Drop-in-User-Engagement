@@ -48,6 +48,6 @@ https://modeanalytics.com/homobabies/reports/ab9e59f6569b
 
 Here we see more useful information! In the week of 7-28-14, there was a large drop in click throughs by users who used mobile devices like phones and tablets, but not users on computers. Bingo!
 
-## Possible Solution
+## Possible Solution - Change in features/bugs in email events
 Based on all the information we collected, it seems like the older the user, the lower their engagement, and that newer user's engagement tends to outpace the loss in engagement from older users. However, in this particular instance, the loss in engagement outpaced newer user's engagement, and coincided with a reduction in email click throughs by all users on phones and tablets. I would suspect that this might have something to do with a change in optimization of emails for mobile users, but at this point this is only speculation, and with this information one would likely approach other departments to see what recent changes have been rolled out. 
 
